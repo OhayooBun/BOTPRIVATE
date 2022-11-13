@@ -12,7 +12,7 @@ let handler = async m => m.reply(`
 + *IDR : Rp 25.000,00 ( Permanen )*
 
 Note : Jika menemukan BUG atau eror *Segera lapor ke owner*
-(Https://wa.me/62878949880923)
+(Https://wa.me/6285693917497)
   + *User premium Mempunyai Unlimited Limit dan kelebihan menggunakan fitur tertentu*
 ♡ ㅤ    ❍ㅤ      ⎙ㅤ     ⌲
 ᴸⁱᵏᵉ   ᶜᵒᵐᵐᵉⁿᵗ   ˢᵃᵛᵉ      ˢʰᵃʳᵉ
