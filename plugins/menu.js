@@ -158,7 +158,7 @@ let handler = async (m, { conn, usedPrefix: _p }) => {
       readmore: readMore
     }
     text = text.replace(new RegExp(`%(${Object.keys(replace).sort((a, b) => b.length - a.length).join`|`})`, 'g'), (_, name) => '' + replace[name])
-    let url = 'https://telegra.ph/file/5d2f3f2791e64752256e5.jpg'
+    let url = 'https://telegra.ph/file/c5b779d67105cc5f6713b.jpg'
 		conn.sendButton(m.chat, text.trim(), '🚫NO TELPON BOT', url, [
 			[`【 DONASI KAK 人々の寄付 😊 】`, `.donasi`],
 			[`【 SEWA BOT 高価トを購入🤖 】`, `.sewa`],
