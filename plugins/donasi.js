@@ -4,7 +4,7 @@ let handler = async m => m.reply(`
 │ • Dana •  [081283186765]
 ╰────
 ╭─「 *NOTE* 」
-│ > Ingin donasi? Wa.me/62878949880923
+│ > Ingin donasi? Wa.me/6285693917497
 │ _Hasil donasi akan digunakan buat sewa_
 │ _atau beli *RDP/VPS* agar bot bisa jalan_
 │ _24jam tanpa kendala_
